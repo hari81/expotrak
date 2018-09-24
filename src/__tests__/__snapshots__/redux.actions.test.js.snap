@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dispatches the correct action and payload 1`] = `
+Array [
+  Object {
+    "password": "123456",
+    "type": "LOGIN",
+    "username": "tomv",
+  },
+]
+`;
+
+exports[`Dispatches the correct action and payload 2`] = `
+Array [
+  Object {
+    "password": "123456",
+    "type": "LOGIN",
+    "username": "tomv",
+  },
+]
+`;
+
+exports[`Dispatches the correct action and payload 3`] = `
+Array [
+  Object {
+    "password": "123456",
+    "type": "LOGIN",
+    "username": "tomv",
+  },
+]
+`;
+
+exports[`Dispatches the correct action and payload 4`] = `
+Array [
+  Object {
+    "inspectionId": 1,
+    "type": "SELECT_DESELECT_FROM_LIST",
+  },
+]
+`;

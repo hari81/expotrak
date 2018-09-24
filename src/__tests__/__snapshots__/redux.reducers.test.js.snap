@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`INITIAL_STATE is correct 1`] = `
+Object {
+  "isLoggedIn": false,
+  "password": "",
+  "username": "",
+}
+`;
+
+exports[`LOGIN returns the correct state 1`] = `
+Object {
+  "isLoggedIn": true,
+  "password": "123456",
+  "username": "tomv",
+}
+`;
